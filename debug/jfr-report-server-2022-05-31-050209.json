@@ -1,0 +1,495 @@
+{
+  "startedEpoch": 1653973329595,
+  "endedEpoch": 1653973347505,
+  "durationMs": 17910,
+  "heap": {
+    "allocationRateBytesPerSecond": 8.500456106666666E7,
+    "gcCount": 2,
+    "gcOverHeadPercent": 0.19949749,
+    "gcTotalDurationMs": 3573
+  },
+  "cpuPercent": {
+    "jvm": {
+      "min": 0.0,
+      "average": 0.009628718780974547,
+      "max": 0.021739130839705467
+    },
+    "userJvm": {
+      "min": 0.3069767355918884,
+      "average": 0.36718656222025553,
+      "max": 0.5
+    },
+    "system": {
+      "min": 0.6666666865348816,
+      "average": 0.7437024037043254,
+      "max": 0.8019981980323792
+    }
+  },
+  "network": {
+    "sent": {
+      "totalBytes": 708338,
+      "count": 58802,
+      "bytesPerSecond": 41666.94117647059,
+      "countPerSecond": 3458.9411764705883,
+      "topContributors": [
+        {
+          "protocolId": 0,
+          "packetId": 24,
+          "packetName": "ClientboundCustomPayloadPacket",
+          "totalBytes": 213976,
+          "count": 3360
+        },
+        {
+          "protocolId": 0,
+          "packetId": 41,
+          "packetName": "Pos",
+          "totalBytes": 134654,
+          "count": 14196
+        },
+        {
+          "protocolId": 0,
+          "packetId": 79,
+          "packetName": "ClientboundSetEntityMotionPacket",
+          "totalBytes": 101184,
+          "count": 11348
+        },
+        {
+          "protocolId": 0,
+          "packetId": 42,
+          "packetName": "PosRot",
+          "totalBytes": 73646,
+          "count": 6148
+        },
+        {
+          "protocolId": 0,
+          "packetId": 62,
+          "packetName": "ClientboundRotateHeadPacket",
+          "totalBytes": 63526,
+          "count": 18544
+        },
+        {
+          "protocolId": 0,
+          "packetId": 98,
+          "packetName": "ClientboundTeleportEntityPacket",
+          "totalBytes": 52752,
+          "count": 1767
+        },
+        {
+          "protocolId": 0,
+          "packetId": 100,
+          "packetName": "ClientboundUpdateAttributesPacket",
+          "totalBytes": 17926,
+          "count": 178
+        },
+        {
+          "protocolId": 0,
+          "packetId": 77,
+          "packetName": "ClientboundSetEntityDataPacket",
+          "totalBytes": 13302,
+          "count": 498
+        },
+        {
+          "protocolId": 0,
+          "packetId": 2,
+          "packetName": "ClientboundAddMobPacket",
+          "totalBytes": 7842,
+          "count": 148
+        },
+        {
+          "protocolId": 0,
+          "packetId": 43,
+          "packetName": "Rot",
+          "totalBytes": 6006,
+          "count": 1001
+        }
+      ]
+    },
+    "received": {
+      "totalBytes": 39716,
+      "count": 3335,
+      "bytesPerSecond": 2336.235294117647,
+      "countPerSecond": 196.1764705882353,
+      "topContributors": [
+        {
+          "protocolId": 0,
+          "packetId": 19,
+          "packetName": "Rot",
+          "totalBytes": 14810,
+          "count": 1481
+        },
+        {
+          "protocolId": 0,
+          "packetId": 28,
+          "packetName": "ServerboundPlayerInputPacket",
+          "totalBytes": 13270,
+          "count": 1327
+        },
+        {
+          "protocolId": 0,
+          "packetId": 17,
+          "packetName": "Pos",
+          "totalBytes": 6838,
+          "count": 263
+        },
+        {
+          "protocolId": 0,
+          "packetId": 18,
+          "packetName": "PosRot",
+          "totalBytes": 4182,
+          "count": 123
+        },
+        {
+          "protocolId": 0,
+          "packetId": 26,
+          "packetName": "ServerboundPlayerActionPacket",
+          "totalBytes": 220,
+          "count": 20
+        },
+        {
+          "protocolId": 0,
+          "packetId": 44,
+          "packetName": "ServerboundSwingPacket",
+          "totalBytes": 178,
+          "count": 89
+        },
+        {
+          "protocolId": 0,
+          "packetId": 15,
+          "packetName": "ServerboundKeepAlivePacket",
+          "totalBytes": 54,
+          "count": 6
+        },
+        {
+          "protocolId": 0,
+          "packetId": 37,
+          "packetName": "ServerboundSetCarriedItemPacket",
+          "totalBytes": 51,
+          "count": 17
+        },
+        {
+          "protocolId": 0,
+          "packetId": 46,
+          "packetName": "ServerboundUseItemOnPacket",
+          "totalBytes": 48,
+          "count": 2
+        },
+        {
+          "protocolId": 0,
+          "packetId": 3,
+          "packetName": "ServerboundChatPacket",
+          "totalBytes": 45,
+          "count": 2
+        }
+      ]
+    }
+  },
+  "fileIO": {
+    "write": {
+      "totalBytes": 62277,
+      "count": 23,
+      "bytesPerSecond": 3663.3529411764707,
+      "countPerSecond": 1.3529411764705883,
+      "topContributors": [
+        {
+          "path": "./world/region/r.0.0.mca",
+          "totalBytes": 45216
+        },
+        {
+          "path": "./world/region/r.-1.0.mca",
+          "totalBytes": 14744
+        },
+        {
+          "path": "logs/latest.log",
+          "totalBytes": 815
+        },
+        {
+          "path": "logs/debug.log",
+          "totalBytes": 815
+        }
+      ]
+    },
+    "read": {
+      "totalBytes": 69511,
+      "count": 133,
+      "bytesPerSecond": 4088.8823529411766,
+      "countPerSecond": 7.823529411764706,
+      "topContributors": [
+        {
+          "path": "/dev/urandom",
+          "totalBytes": 65024
+        },
+        {
+          "path": "/home/minecraft/multicraft/servers/server538251/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar",
+          "totalBytes": 4487
+        }
+      ]
+    }
+  },
+  "serverTick": {
+    "minMs": 0.0,
+    "averageMs": 33.13766773333334,
+    "maxMs": 115.989528,
+    "p99": 107.54492736,
+    "p90": 49.7230064,
+    "p75": 39.179202000000004,
+    "p50": 24.19572
+  },
+  "threadAllocation": [
+    {
+      "thread": "C1 CompilerThread0",
+      "bytesPerSecond": 16.8
+    },
+    {
+      "thread": "C2 CompilerThread0",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "C2 CompilerThread1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "C2 CompilerThread2",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Common-Cleaner",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "DestroyJavaVM",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "FileSystemWatchService",
+      "bytesPerSecond": -29.6
+    },
+    {
+      "thread": "Finalizer",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "IO-Worker-879",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "IO-Worker-881",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "IO-Worker-889",
+      "bytesPerSecond": 7113.6
+    },
+    {
+      "thread": "IO-Worker-890",
+      "bytesPerSecond": 7115.2
+    },
+    {
+      "thread": "JFR Periodic Tasks",
+      "bytesPerSecond": 1369.6
+    },
+    {
+      "thread": "JFR Recorder Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Java2D Disposer",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Monitor Deflation Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #0",
+      "bytesPerSecond": 746545.6
+    },
+    {
+      "thread": "Netty Epoll Server IO #1",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #10",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #11",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #12",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #13",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #14",
+      "bytesPerSecond": 751863.2
+    },
+    {
+      "thread": "Netty Epoll Server IO #15",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #16",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #17",
+      "bytesPerSecond": 771136.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #18",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #19",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #2",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #20",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #21",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #22",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #23",
+      "bytesPerSecond": 807540.8
+    },
+    {
+      "thread": "Netty Epoll Server IO #3",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #4",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #5",
+      "bytesPerSecond": 802239.2
+    },
+    {
+      "thread": "Netty Epoll Server IO #6",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #7",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #8",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Netty Epoll Server IO #9",
+      "bytesPerSecond": 801312.0
+    },
+    {
+      "thread": "Notification Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Reference Handler",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Server Watchdog",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Server console handler",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Server thread",
+      "bytesPerSecond": 8.043064E7
+    },
+    {
+      "thread": "Service Thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Signal Dispatcher",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Sweeper thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Thread-0",
+      "bytesPerSecond": 659198.4
+    },
+    {
+      "thread": "Timer hack thread",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "VoiceChatPacketProcessingThread",
+      "bytesPerSecond": 1695639.2
+    },
+    {
+      "thread": "VoiceChatServerThread",
+      "bytesPerSecond": 167580.0
+    },
+    {
+      "thread": "Worker-Main-556",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Worker-Main-559",
+      "bytesPerSecond": 363347.2
+    },
+    {
+      "thread": "Worker-Main-560",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Worker-Main-563",
+      "bytesPerSecond": 1236005.6
+    },
+    {
+      "thread": "Worker-Main-882",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Worker-Main-883",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Worker-Main-884",
+      "bytesPerSecond": 411897.6
+    },
+    {
+      "thread": "Worker-Main-885",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Worker-Main-886",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Worker-Main-887",
+      "bytesPerSecond": 0.0
+    },
+    {
+      "thread": "Worker-Main-888",
+      "bytesPerSecond": 0.0
+    }
+  ],
+  "chunkGen": {
+    "durationNanosTotal": 0.0,
+    "status": []
+  }
+}
