@@ -1,0 +1,639 @@
+[15Aug2022 00:00:33.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:01:21.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:02:10.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:02:58.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:03:46.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:04:37.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:05:26.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:06:15.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:07:03.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:07:24.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 00:07:24.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 00:07:24.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 00:07:51.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:08:39.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:09:28.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:10:19.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:11:08.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:11:56.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:12:45.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:13:33.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:14:21.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:15:11.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:15:59.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:16:47.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:17:27.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 00:17:27.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 00:17:27.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 00:17:41.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:18:35.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:19:23.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:20:11.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:21:04.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:21:53.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:22:41.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:23:35.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:24:23.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:25:11.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:26:02.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:26:50.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:27:36.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 00:27:36.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 00:27:36.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 00:27:39.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:28:29.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:29:18.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:30:06.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:30:54.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:31:42.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:32:35.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:33:23.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:34:11.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:35:03.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:35:57.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:36:45.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:37:33.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:37:39.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 00:37:39.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 00:37:39.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 00:38:26.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:39:15.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:40:03.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:40:53.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:41:41.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:42:29.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:43:19.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:44:07.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:44:55.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:45:46.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:46:34.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:47:22.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:47:42.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 00:47:42.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 00:47:43.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 00:48:14.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:49:02.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:49:51.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:50:44.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:51:32.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:52:21.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:53:12.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:54:01.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:54:49.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:55:41.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:56:30.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:57:18.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:57:46.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 00:57:46.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 00:57:46.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 00:58:06.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:58:55.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 00:59:46.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:00:35.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:01:23.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:02:16.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:03:04.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:03:52.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:04:46.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:05:40.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:06:28.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:07:16.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:07:49.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 01:07:49.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 01:07:49.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 01:08:05.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:08:53.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:09:41.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:10:30.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:11:20.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:12:12.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:13:01.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:13:49.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:14:37.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:15:29.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:16:22.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:17:11.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:17:52.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 01:17:52.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 01:17:52.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 01:17:59.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:18:47.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:19:35.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:20:27.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:21:16.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:22:04.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:22:52.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:23:44.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:24:35.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:25:23.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:26:12.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:27:00.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:27:52.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:27:56.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 01:27:56.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 01:27:56.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 01:28:45.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:29:33.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:30:21.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:31:09.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:31:58.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:32:47.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:33:36.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:34:24.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:35:14.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:36:02.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:36:50.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:37:39.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:37:59.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 01:37:59.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 01:37:59.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 01:38:30.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:39:20.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:40:09.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:40:57.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:41:45.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:42:36.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:43:27.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:44:15.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:45:03.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:45:52.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:46:42.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:47:33.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:48:02.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 01:48:02.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 01:48:02.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 01:48:22.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:49:10.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:49:58.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:50:48.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:51:40.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:52:28.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:53:17.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:54:05.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:54:53.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:55:42.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:56:30.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:57:23.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:58:06.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 01:58:06.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 01:58:06.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 01:58:14.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:59:03.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 01:59:51.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:00:40.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:01:33.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:02:24.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:03:17.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:04:07.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:04:59.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:05:51.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:06:39.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:07:27.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:08:09.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 02:08:09.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 02:08:09.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 02:08:16.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:09:04.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:09:52.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:10:45.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:11:36.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:12:25.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:13:13.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:14:01.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:14:50.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:15:41.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:16:29.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:17:18.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:18:06.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:18:12.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 02:18:12.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 02:18:12.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 02:18:56.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:19:46.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:20:34.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:21:23.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:22:11.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:22:59.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:23:49.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:24:38.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:25:26.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:26:14.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:27:03.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:27:53.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:28:16.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 02:28:16.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 02:28:16.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 02:28:42.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:29:30.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:30:23.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:31:12.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:32:00.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:32:48.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:33:41.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:34:32.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:35:20.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:36:09.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:36:57.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:37:48.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:38:23.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 02:38:23.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 02:38:24.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 02:38:40.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:39:29.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:40:17.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:41:05.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:41:54.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:42:42.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:43:30.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:44:19.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:45:08.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:45:56.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:46:48.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:47:36.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:48:24.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:48:27.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 02:48:27.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 02:48:27.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 02:49:13.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:50:02.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:50:50.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:51:40.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:52:28.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:53:18.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:54:07.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:54:56.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:55:44.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:56:32.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:57:21.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:58:10.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:58:30.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 02:58:30.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 02:58:31.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 02:58:58.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 02:59:47.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:00:35.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:01:24.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:02:15.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:03:03.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:03:52.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:04:40.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:05:28.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:06:20.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:07:08.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:07:57.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:08:34.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 03:08:34.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 03:08:34.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 03:08:50.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:09:38.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:10:27.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:11:15.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:12:03.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:12:52.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:13:40.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:14:32.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:15:21.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:16:09.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:16:58.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:17:46.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:18:34.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:18:37.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 03:18:37.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 03:18:37.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 03:19:27.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:20:15.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:21:03.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:21:55.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:22:43.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:23:31.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:24:20.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:25:08.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:25:56.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:26:48.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:27:36.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:28:24.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:28:40.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 03:28:40.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 03:28:40.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 03:29:13.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:30:01.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:30:50.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:31:38.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:32:26.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:33:15.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:34:03.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:34:51.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:35:39.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:36:29.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:37:17.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:38:11.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:38:44.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 03:38:44.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 03:38:44.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 03:38:59.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:39:52.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:40:40.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:41:29.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:42:20.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:43:09.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:43:57.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:44:45.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:45:34.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:46:22.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:47:16.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:48:04.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:48:47.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 03:48:47.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 03:48:47.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 03:48:52.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:49:40.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:50:34.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:51:26.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:52:14.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:53:03.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:53:51.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:54:39.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:55:28.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:56:16.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:57:06.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:57:56.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:58:44.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 03:58:50.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 03:58:50.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 03:58:50.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 03:59:32.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:00:21.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:01:09.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:01:59.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:02:47.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:03:36.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:04:24.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:05:15.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:06:05.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:06:53.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:07:41.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:08:30.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:08:54.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 04:08:54.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 04:08:54.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 04:09:21.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:10:13.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:11:02.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:11:50.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:12:38.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:13:28.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:14:20.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:15:08.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:15:56.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:16:44.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:17:33.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:18:23.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:18:57.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 04:18:57.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 04:18:57.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 04:19:16.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:20:07.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:20:55.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:21:43.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:22:32.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:23:20.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:24:11.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:24:59.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:25:52.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:26:42.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:27:34.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:28:23.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:29:00.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 04:29:00.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 04:29:00.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 04:29:16.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:30:06.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:30:54.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:31:42.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:32:31.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:33:22.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:34:12.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:35:00.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:35:48.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:36:37.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:37:25.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:38:15.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:39:03.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:39:08.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 04:39:08.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 04:39:08.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 04:39:52.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:40:40.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:41:28.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:42:17.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:43:06.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:43:54.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:44:42.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:45:31.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:46:19.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:47:13.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:48:03.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:48:51.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:49:14.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 04:49:14.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 04:49:14.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 04:49:39.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:50:27.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:51:17.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:52:07.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:52:55.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:53:44.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:54:32.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:55:20.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:56:10.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:56:58.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:57:46.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:58:35.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 04:59:17.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 04:59:17.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 04:59:17.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 04:59:24.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:00:16.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:01:05.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:01:53.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:02:41.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:03:31.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:04:22.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:05:10.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:05:58.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:06:46.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:07:35.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:08:26.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:09:14.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:09:21.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 05:09:21.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 05:09:21.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 05:10:03.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:10:51.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:11:40.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:12:30.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:13:23.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:14:15.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:15:03.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:15:51.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:16:40.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:17:28.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:18:16.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:19:10.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:19:25.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 05:19:25.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 05:19:25.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 05:20:00.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:20:48.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:21:37.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:22:25.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:23:13.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:24:02.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:24:50.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:25:38.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:26:27.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:27:15.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:28:06.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:28:54.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:29:28.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 05:29:28.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 05:29:28.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 05:29:42.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:30:31.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:31:23.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:32:14.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:33:03.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:33:51.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:34:39.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:35:28.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:36:18.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:37:06.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:37:55.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:38:43.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:39:33.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:39:33.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 05:39:33.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 05:39:33.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 05:40:24.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:41:12.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:42:00.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:42:49.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:43:39.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:44:31.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:45:19.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:46:07.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:46:55.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:47:44.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:48:35.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:49:23.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:49:36.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 05:49:36.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 05:49:36.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 05:50:11.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:51:00.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:51:48.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:52:39.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:53:28.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:54:16.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:55:04.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:55:54.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:56:45.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:57:33.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:58:22.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:59:10.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 05:59:41.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 05:59:41.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 05:59:42.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 06:00:00.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:00:52.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:01:40.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:02:29.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:03:17.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:04:05.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:04:55.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:05:44.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:06:32.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:07:20.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:08:08.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:08:57.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:09:45.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 06:09:45.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 06:09:45.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 06:09:45.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:10:33.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:11:22.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:12:11.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:13:00.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:13:48.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:14:36.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:15:25.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:16:16.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:17:04.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:17:52.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:18:41.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:19:33.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:19:48.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 06:19:48.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 06:19:48.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 06:20:23.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:21:12.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:22:00.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:22:48.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:23:40.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:24:40.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:25:28.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:26:21.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:27:19.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:28:07.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:28:55.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:29:47.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:29:51.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 06:29:51.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 06:29:52.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 06:30:36.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:30:53.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4985ms or 99 ticks behind
+[15Aug2022 06:31:24.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:32:26.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:33:14.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:34:04.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:34:52.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:35:52.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:36:40.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:37:38.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:38:26.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:39:15.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:39:55.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 06:39:55.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 06:39:55.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 06:40:06.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:40:55.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:41:43.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:42:31.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:43:21.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:44:10.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:45:03.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:45:53.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:46:46.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:47:34.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:48:27.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:49:17.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:49:58.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving is already turned on
+[15Aug2022 06:49:58.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 06:49:58.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 06:50:09.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:50:58.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:51:50.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:52:39.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 20 players online: 
+[15Aug2022 06:52:51.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[15Aug2022 06:52:51.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[15Aug2022 06:52:51.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[15Aug2022 06:52:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Aug2022 06:52:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Aug2022 06:52:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Aug2022 06:53:34.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Aug2022 06:53:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Aug2022 06:53:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Aug2022 06:53:34.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Aug2022 06:53:34.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Aug2022 06:53:34.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Aug2022 06:53:34.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
