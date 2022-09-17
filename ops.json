@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "516517b1-e3e4-4fe9-a198-f2f5183749cd",
+    "name": "Nucknom",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "541b0d03-7bb9-4f19-bfd3-3487d8e036fa",
+    "name": "Coolingcake",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e428303a-9171-4e40-9f6f-f575d5e9900b",
+    "name": "okayykelly",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
